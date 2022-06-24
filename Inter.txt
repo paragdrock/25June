@@ -1,0 +1,29 @@
+Is abstract class allow to define private, final, static, and concrete methods?
+
+What is the advantage of Abstract class in Java?
+
+can we extend one Abs. class into another Abs. class?
+
+What is the difference between Abstraction and Encapsulation?
+
+why to use abstract class in java
+
+1)Suppose A is an interface. 
+Can we declare a reference variable a with type A like this: A a;
+
+2)Is it possible to define a class inside an interface?
+  can that class implement same interface?
+
+3)can we use abstract modifier with interface?
+
+4)Can an interface has instance and static blocks?
+
+5) Why an Interface can extend more than one Interface but 
+a Class can’t extend more than one Class?
+
+6)What is the difference between abstract class and interface in Java?
+
+
+7)What is a Nested interface?	 
+
+8)can we use static with interface?
